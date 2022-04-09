@@ -3,11 +3,12 @@
 /* CSS Document */
 
 body {
-    font-family: 'Montserrat', sans-serif;
-    line-height: 2;
-    text-align: left;
+    font-family: Avenir, BlinkMacSystemFont, -apple-system, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
     letter-spacing: 0;
-    font-style: normal;
+    color: rgb(43, 59, 86);
+    font-size: 1em;
+    font-weight: 400;
+    line-height: 1.5;
 }
 
 .figure-caption {
@@ -20,6 +21,10 @@ h6,
 h2 {
     color: #3f3f46;
     font-weight: 700!important;
+}
+
+p {
+    line-height: 1.5;
 }
 
 .card-shadow:hover {
