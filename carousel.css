@@ -104,6 +104,12 @@ footer.materi {
     cursor: pointer;
 }
 
+.responsive-flex {
+    display: flex;
+    flex-direction: row-reverse;
+    flex-wrap: wrap;
+}
+
 .btn-primary {
     background-color: #ffc007;
 }
