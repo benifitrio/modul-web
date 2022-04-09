@@ -108,7 +108,7 @@ footer.materi {
 
 @media screen and (max-width: 576px) {
     .carousel-item {
-        height: 18rem;
+        height: 14rem;
     }
     .carousel {
         margin-bottom: 0rem;
