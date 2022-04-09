@@ -16,6 +16,11 @@ body {
     background-color: #9b51e0;
 }
 
+.navbar-nav .nav-link {
+    color: #fff !important;
+    font-size: 13px;
+}
+
 .figure-caption {
     width: 50%;
     margin: auto;
