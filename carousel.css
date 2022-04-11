@@ -104,6 +104,11 @@ footer.materi {
     cursor: pointer;
 }
 
+.profile img {
+    width: 100px;
+    height: 100px;
+}
+
 .responsive-flex {
     display: flex;
     flex-direction: row-reverse;
